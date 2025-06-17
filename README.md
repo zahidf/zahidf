@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Zahid
 
 I'm a **student** and **software engineer** passionate about building full-stack web, mobile, and desktop applications.  
-I specialize in **React (TypeScript)** and **ASP.NET Core (C#)**, but I'm comfortable working across a variety of languages and frameworks.
+I specialise in **React (TypeScript)** and **ASP.NET Core (C#)**, but I'm comfortable working across a variety of languages and frameworks.
 
 ---
 
@@ -43,7 +43,8 @@ Contact form integrates with Netlify Functions and Brevo for customer communicat
 Uses Clean Architecture, MVVM, Entity Framework Core, SQL Server.
 
 ### [CalculatorProject](https://github.com/zahidf/CalculatorProject)
-Customizable calculator web app (HTML, CSS, JS)  
+My first ever project!
+Customisable calculator web app (HTML, CSS, JS)  
 Draggable buttons, color theming, and basic arithmetic.
 
 ---
