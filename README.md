@@ -7,9 +7,9 @@ I specialise in **React (TypeScript)** and **ASP.NET Core (C#)**, but I'm comfor
 
 ## 🛠️ What I Do
 
-- **Full Stack Web App Development:** React, TypeScript, ASP.NET Core, Laravel, FastAPI, and more.
-- **Mobile Apps:** React Native, Expo, TypeScript.
-- **Desktop Apps:** .NET (WPF), MVVM, Entity Framework.
+- **Full Stack Web App Development:** React (TypeScript), ASP.NET Core (C#), Laravel (PHP), FastAPI (python), and more.
+- **Mobile Apps:** React Native Expo (TypeScript).
+- **Desktop Apps:** .NET WPF (C#), MATLAB.
 - **Database Design & Development:** PostgreSQL, SQLite, SQL Server, MySQL.
 - **Cross-disciplinary Engineering:** Database-driven apps using MATLAB, Java, and PostgreSQL.
 
