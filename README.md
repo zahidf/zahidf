@@ -38,6 +38,9 @@ Handles prayer times (CSV), Google OAuth, push notifications, PDF export, and ad
 React single-page app for a Welsh damp proofing company  
 Contact form integrates with Netlify Functions and Brevo for customer communication.
 
+### [OsmanConstructionServices](https://mow-construction.co.uk/)
+UK construction company WordPress site with custom-built theme using PHP, JavaScript, and CSS. Features include service displays, project portfolio gallery, and contact forms, with Brevo email API integration for streamlined customer communication automation.
+
 ### [MyFlights](https://github.com/zahidf/MyFlights)
 .NET 8 WPF desktop app for flight management  
 Uses Clean Architecture, MVVM, Entity Framework Core, SQL Server.
