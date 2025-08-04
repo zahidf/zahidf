@@ -17,29 +17,30 @@ I specialise in **React (TypeScript)** and **ASP.NET Core (C#)**, but I'm comfor
 
 ## 🌟 Featured Projects
 
-### [MemoriAI Mobile Client](https://github.com/zahidf/memoriaimobileclient)
+### [MemoriAI Mobile Client](https://github.com/zahidf/memoriaimobileclient) [LIVE SOON]
 AI-powered flashcard mobile app (React Native, Expo, TypeScript, SQLite)  
 Turns PDFs, text, and YouTube videos into intelligent flashcards using spaced repetition (SM-2).  
 Features Google Sign-In, YouTube transcript extraction, email feedback, and study tracking.
 
-### [memori-ai](https://memori-ai.com/)
+### [memori-ai](https://memori-ai.com/) [LIVE]
 Anki flashcard generator web app (FastAPI, Python, vanilla JS/HTML/CSS)  
 Automatically creates question-answer pairs from PDFs, text, or YouTube videos using DeepSeek AI.
 
-### [Team-Project-Group-4](https://github.com/zahidf/Team-Project-Group-4)
+### [Team-Project-Group-4](https://github.com/zahidf/Team-Project-Group-4) [University Team Project - My role: Team Lead + Backend Developer]
 Laravel-based online bookstore with a React admin dashboard  
 User auth, shopping cart, order management, reviews, built with PHP, MySQL, JS, Tailwind, Sanctum.
 
-### [MASapp](https://github.com/zahidf/MASapp)
+### [MASapp](https://github.com/zahidf/MASapp) [LIVE]
 React Native mobile app for mosque management  
-Handles prayer times (CSV), Google OAuth, push notifications, PDF export, and admin panel.
+Handles prayer times (CSV), live events, push notifications, PDF export, and admin panel.
+Admin Panel Live on [https://masapp-admin.netlify.app/]
 
-### [LuxeDampProofing](https://luxedampproofing.co.uk/)
+### [LuxeDampProofing](https://luxedampproofing.co.uk/) [LIVE]
 React single-page app for a Welsh damp proofing company  
 Contact form integrates with Netlify Functions and Brevo for customer communication.
 
-### [OsmanConstructionServices](https://mow-construction.co.uk/)
-UK construction company WordPress site with custom-built theme using PHP, JavaScript, and CSS. Features include service displays, project portfolio gallery, and contact forms, with Brevo email API integration for streamlined customer communication automation.
+### [OsmanConstructionServices](https://mow-construction.co.uk/) [LIVE]
+UK construction company site with custom-built theme using PHP, JavaScript, and CSS. Features include service displays, project portfolio gallery, and contact forms, with Brevo email API integration for streamlined customer communication automation, using Wordpress as CMS.
 
 ### [MyFlights](https://github.com/zahidf/MyFlights)
 .NET 8 WPF desktop app for flight management  
